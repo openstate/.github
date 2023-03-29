@@ -14,4 +14,4 @@
 - [Twitter](https://twitter.com/OpenStateEU)
 - [Slack](https://slack.hackdeoverheid.nl/) (our Hack de Overheid community)
 
-❤️ With your support we can unlock more government information, [donate today](https://openstate.eu/en/donate/)!
+❤️ With your support we can open up more government information, [donate today](https://openstate.eu/en/donate/)!
