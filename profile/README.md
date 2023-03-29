@@ -7,3 +7,11 @@
 - [Our Projects, Tools & Data](https://openstate.eu/en/projects-tools-data/)
 - [Data portal](https://data.openstate.eu/)
 - [Aleph](https://aleph.openstate.eu/)
+
+## ✨ Follow us
+- [Monthly newsletter](https://openstate.eu/en/newsletter/) (Dutch)
+- [Mastodon](https://mastodon.nl/@openstate)
+- [Twitter](https://twitter.com/OpenStateEU)
+- [Slack](https://slack.hackdeoverheid.nl/) (our Hack de Overheid community)
+
+❤️ With your support we can unlock more government information, [donate today](https://openstate.eu/en/donate/)!
