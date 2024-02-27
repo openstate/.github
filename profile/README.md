@@ -15,4 +15,4 @@
 - [LinkedIn](https://www.linkedin.com/company/open-state-foundation/)
 - [Slack](https://slack.hackdeoverheid.nl/) (our Hack de Overheid community)
 
-❤️ With your support we can open up more government information, [donate today](https://openstate.eu/en/donate/)!
+### ❤️ With your support we can open up more government information, [donate today](https://openstate.eu/en/donate/)!
