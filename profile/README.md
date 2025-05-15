@@ -6,12 +6,11 @@
 - [Open State Foundation website](https://openstate.eu/)
 - [Our Projects, Tools & Data](https://openstate.eu/en/projects-tools-data/)
 - [Data portal](https://data.openstate.eu/)
-- [Aleph](https://aleph.openstate.eu/)
 
 ## ✨ Follow us
 - [Monthly newsletter](https://openstate.eu/en/newsletter/) (Dutch)
 - [Mastodon](https://mastodon.nl/@openstate)
-- [Twitter](https://twitter.com/OpenStateEU)
+- [Bluesky](https://bsky.app/profile/openstate.eu)
 - [LinkedIn](https://www.linkedin.com/company/open-state-foundation/)
 - [Slack](https://slack.hackdeoverheid.nl/) (our Hack de Overheid community)
 
